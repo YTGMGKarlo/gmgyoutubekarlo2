@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background: linear-gradient(black, gray, white);
     background-repeat: no-repeat;
     background-attachment: fixed;
     border: 4px outset;
